@@ -1,4 +1,11 @@
-## Hi there 👋
+# Schuyler Clark About Me
+
+### - I am currently taking engineering and data science courses
+### - I am interested in learning more about quantitative finance
+### - I enjoy carpentry and building things
+
+
+
 
 <!--
 **stclark26/stclark26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
